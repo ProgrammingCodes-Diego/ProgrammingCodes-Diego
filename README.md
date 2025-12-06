@@ -1,6 +1,4 @@
 
-## 🚀 Sobre Mi
-Estudiante de 2ºDAM. En mi perfil encontraras repositorios de mis proyectos que he ido realizando durante estos años de formacion
 
 
 ## ⚡Estadisticas
