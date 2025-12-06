@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**ProgrammingCodes-Diego/ProgrammingCodes-Diego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mi
+Estudiante de 2ºDAM. En mi perfil encontraras repositorios de mis proyectos que he ido realizando durante estos años de formacion
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+-Js-
+
+-HTML-
+
+-CSS-
+
+-Java-
+
+-Kotlin-
+
+-Android- 
+
+-Python-
+
+-Angular js-
+
+
+
+
+## ⚡Estadisticas
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProgrammingCodes-Diego&theme=blueberry&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
